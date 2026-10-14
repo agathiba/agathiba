@@ -20,6 +20,7 @@ A self-supervised pipeline that maps satellite imagery to land-cover classes wit
 | [Deep Learning for Land-Cover Classification (EuroSAT)](https://github.com/agathiba/satellite-lulc-deep-learning-eurosat) | ResNet-50, EfficientNet-B0 and Swin Transformer on Sentinel-2 · 98.9% test accuracy |
 | [Multispectral Analysis: WorldView vs. Sentinel-2](https://github.com/agathiba/multispectral-analysis-worldview-sentinel2) | Pan-sharpening, spectral indices, SVM / Random Forest / OBIA classification |
 | [Applied GIS & Multi-Criteria Analysis](https://github.com/agathiba/gis-spatial-analysis-cartography-portfolio) | Site suitability in ArcGIS ModelBuilder, KDE, thematic cartography in QGIS |
+| [Advanced Spatial Analysis & Surface Modeling](https://github.com/agathiba/advanced-spatial-analysis-surface-modeling) | Viewshed networks, DEM interpolation (TIN vs. ANUDEM), GDEM accuracy assessment, ModelBuilder automation |
 | [3D Reconstruction: TLS vs. Photogrammetry](https://github.com/agathiba/3d-reconstruction-tls-photogrammetry) | Laser scanning, close-range photogrammetry and hybrid 3D models |
 | [Web GIS & Cartographic Visualization](https://github.com/agathiba/web-gis-cartographic-visualization-usability) | Interactive web maps, 3D terrain, eye-tracking usability study |
 | [Computational Photogrammetry & Computer Vision](https://github.com/agathiba/computational-photogrammetry-computer-vision) | Camera calibration (DLT), rectification and homography in Python |

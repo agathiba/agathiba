@@ -20,7 +20,7 @@ I'm a remote sensing researcher with a background in mathematics and an MSc in A
 
 ### 🎓 Master's thesis
 **GeoLoom: Zero-Shot Satellite Land-Cover Mapping by Aligning DINOv3 and CLIP**
-A self-supervised pipeline that maps satellite imagery to land-cover classes without any labelled data. *Repository coming soon.*
+A self-supervised pipeline that maps satellite imagery to land-cover classes without any labelled data. *Paper in preparation – code will be released upon publication.*
 
 ### 📂 Selected projects
 

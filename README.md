@@ -5,6 +5,7 @@
 I'm a remote sensing researcher with a background in mathematics and an MSc in Artificial Intelligence & Visual Computing (University of West Attica & University of Limoges). I work as a Research Assistant at the [Remote Sensing Lab of FORTH](https://rslab.gr), on hyperspectral field campaigns, urban spectral libraries and satellite-based environmental monitoring with Sentinel-1/2 in Google Earth Engine.
 
 🛰️ **Interests:** land-cover mapping · change detection · self-supervised learning · vision-language models for Earth Observation
+
 📍 Thessaloniki, Greece
 
 ---
@@ -36,7 +37,9 @@ A self-supervised pipeline that maps satellite imagery to land-cover classes wit
 
 ### 🛠️ Tools
 **Remote sensing:** Google Earth Engine · Sentinel-1/2 · Landsat · ENVI · ESA SNAP · eCognition · hyperspectral imaging
+
 **Machine learning:** Python · PyTorch · scikit-learn · OpenCV · NumPy · Pandas
+
 **GIS & 3D:** QGIS · ArcGIS Pro · Agisoft Metashape · CloudCompare · MeshLab
 
 ### 📫 Contact

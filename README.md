@@ -27,6 +27,7 @@ A self-supervised pipeline that maps satellite imagery to land-cover classes wit
 
 | Project | What it shows |
 |---|---|
+| [Storm Daniel Flood Mapping & Impact Analysis](https://github.com/agathiba/sentinel1-flood-mapping-thessaly) | Sentinel-1 SAR change detection, EMS validation (F1: 0.77), recession dynamics & crop damage assessment in Thessaly |
 | [Deep Learning for Land-Cover Classification (EuroSAT)](https://github.com/agathiba/satellite-lulc-deep-learning-eurosat) | ResNet-50, EfficientNet-B0 and Swin Transformer on Sentinel-2 · 98.9% test accuracy |
 | [Multispectral Analysis: WorldView vs. Sentinel-2](https://github.com/agathiba/multispectral-analysis-worldview-sentinel2) | Pan-sharpening, spectral indices, SVM / Random Forest / OBIA classification |
 | [Applied GIS & Multi-Criteria Analysis](https://github.com/agathiba/gis-spatial-analysis-cartography-portfolio) | Site suitability in ArcGIS ModelBuilder, KDE, thematic cartography in QGIS |
@@ -36,9 +37,9 @@ A self-supervised pipeline that maps satellite imagery to land-cover classes wit
 | [Computational Photogrammetry & Computer Vision](https://github.com/agathiba/computational-photogrammetry-computer-vision) | Camera calibration (DLT), rectification and homography in Python |
 
 ### 🛠️ Tools
-**Remote sensing:** Google Earth Engine · Sentinel-1/2 · Landsat · ENVI · ESA SNAP · eCognition · hyperspectral imaging
+**Remote sensing:** Google Earth Engine · Sentinel-1 (SAR) · Sentinel-2 · Landsat · Copernicus EMS · ENVI · ESA SNAP · eCognition · Hyperspectral imaging
 
-**Machine learning:** Python · PyTorch · scikit-learn · OpenCV · NumPy · Pandas
+**Data science & Geospatial Python:** Python · PyTorch · scikit-learn · OpenCV · GeoPandas · Rasterio · NumPy · Pandas
 
 **GIS & 3D:** QGIS · ArcGIS Pro · Agisoft Metashape · CloudCompare · MeshLab
 

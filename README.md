@@ -37,7 +37,7 @@ A self-supervised pipeline that maps satellite imagery to land-cover classes wit
 | [Computational Photogrammetry & Computer Vision](https://github.com/agathiba/computational-photogrammetry-computer-vision) | Camera calibration (DLT), rectification and homography in Python |
 
 ### 🛠️ Tools
-**Remote sensing:** Google Earth Engine · Sentinel-1 (SAR) · Sentinel-2 · Landsat · Copernicus EMS · ENVI · ESA SNAP · eCognition · Hyperspectral imaging
+**Remote sensing:** Google Earth Engine · Sentinel-1 (SAR) · Sentinel-2 · Landsat · WorldView · Copernicus EMS · ENVI · ESA SNAP · eCognition · Hyperspectral imaging
 
 **Data science & Geospatial Python:** Python · PyTorch · scikit-learn · OpenCV · GeoPandas · Rasterio · NumPy · Pandas
 
